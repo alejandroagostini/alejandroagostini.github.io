@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DD619BDE-2CA8-4B82-B568-0F0A790BF6DD</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-12-13T15:16:53+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:F63EA4C5-1AD1-47E8-BB54-9E449E2793B2</id>
+  <title>WELLY help</title>
+  <title xmlns="urn:iweb:">WELLY help</title>
+  <in-navbar xmlns="urn:iweb:">F63EA4C5-1AD1-47E8-BB54-9E449E2793B2</in-navbar>
+  <link rel="alternate" href="WELLY_help.html"/>
+  <updated>2018-12-13T15:16:53.001+01:00</updated>
+  <content>WELLY help</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:75CA3525-4991-4D5E-AC79-1F537ABC5990</id>
+  <title>Current projects</title>
+  <title xmlns="urn:iweb:">Current projects</title>
+  <in-navbar xmlns="urn:iweb:">75CA3525-4991-4D5E-AC79-1F537ABC5990</in-navbar>
+  <link rel="alternate" href="Current_projects.html"/>
+  <updated>2018-12-13T15:16:53.002+01:00</updated>
+  <content>Current projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5D2958DF-DE44-4209-8EED-B85DD6784CEE</id>
+  <title>Past projects</title>
+  <title xmlns="urn:iweb:">Past projects</title>
+  <in-navbar xmlns="urn:iweb:">5D2958DF-DE44-4209-8EED-B85DD6784CEE</in-navbar>
+  <link rel="alternate" href="Past_projects.html"/>
+  <updated>2018-12-13T15:16:53.003+01:00</updated>
+  <content>Past projects</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A59CE5BA-CE65-4468-B508-2C061E30948A</id>
+  <title>Publications</title>
+  <title xmlns="urn:iweb:">Publications</title>
+  <in-navbar xmlns="urn:iweb:">A59CE5BA-CE65-4468-B508-2C061E30948A</in-navbar>
+  <link rel="alternate" href="Publications.html"/>
+  <updated>2018-12-13T15:16:53.004+01:00</updated>
+  <content>Publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8CC85089-075C-46BE-9E6C-46B47C9C0841</id>
+  <title>Publications Skill Learning</title>
+  <title xmlns="urn:iweb:">Publications Skill Learning</title>
+  <in-navbar xmlns="urn:iweb:">8CC85089-075C-46BE-9E6C-46B47C9C0841</in-navbar>
+  <link rel="alternate" href="Publications_Skill_Learning.html"/>
+  <updated>2018-12-13T15:16:53.005+01:00</updated>
+  <content>Publications Skill Learning</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:90D7871C-D825-4636-B386-4A45DDB5ACD4</id>
+  <title>Publications Health Care</title>
+  <title xmlns="urn:iweb:">Publications Health Care</title>
+  <in-navbar xmlns="urn:iweb:">90D7871C-D825-4636-B386-4A45DDB5ACD4</in-navbar>
+  <link rel="alternate" href="Publications_Health_Care.html"/>
+  <updated>2018-12-13T15:16:53.006+01:00</updated>
+  <content>Publications Health Care</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:8FC1D94E-AABE-470E-BBA7-D47587D87644</id>
+  <title>Publications Gardening</title>
+  <title xmlns="urn:iweb:">Publications Gardening</title>
+  <in-navbar xmlns="urn:iweb:">8FC1D94E-AABE-470E-BBA7-D47587D87644</in-navbar>
+  <link rel="alternate" href="Publications_Gardening.html"/>
+  <updated>2018-12-13T15:16:53.007+01:00</updated>
+  <content>Publications Gardening</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E1CD3396-A794-4068-8F25-0BEE152B3870</id>
+  <title>Publications All</title>
+  <title xmlns="urn:iweb:">Publications All</title>
+  <in-navbar xmlns="urn:iweb:">E1CD3396-A794-4068-8F25-0BEE152B3870</in-navbar>
+  <link rel="alternate" href="Publications_All.html"/>
+  <updated>2018-12-13T15:16:53.008+01:00</updated>
+  <content>Publications All</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F851E96B-165D-48BC-B2B1-61DB5E458FC7</id>
+  <title>short CV</title>
+  <title xmlns="urn:iweb:">short CV</title>
+  <in-navbar xmlns="urn:iweb:">F851E96B-165D-48BC-B2B1-61DB5E458FC7</in-navbar>
+  <link rel="alternate" href="short_CV.html"/>
+  <updated>2018-12-13T15:16:53.009+01:00</updated>
+  <content>short CV</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:796DAB6B-AEFB-4779-9F29-953F53CCF11F</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">796DAB6B-AEFB-4779-9F29-953F53CCF11F</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2018-12-13T15:16:53.010+01:00</updated>
+  <content>Contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DC144762-0C2D-4DE1-BBA9-FF4E5E33EE63</id>
+  <title>Address</title>
+  <title xmlns="urn:iweb:">Address</title>
+  <in-navbar xmlns="urn:iweb:">DC144762-0C2D-4DE1-BBA9-FF4E5E33EE63</in-navbar>
+  <link rel="alternate" href="Address.html"/>
+  <updated>2018-12-13T15:16:53.011+01:00</updated>
+  <content>Address</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D389D1D0-0406-4374-B4A9-5034995A0FA4</id>
+  <title>NEIS</title>
+  <title xmlns="urn:iweb:">NEIS</title>
+  <in-navbar xmlns="urn:iweb:">D389D1D0-0406-4374-B4A9-5034995A0FA4</in-navbar>
+  <link rel="alternate" href="NEIS.html"/>
+  <updated>2018-12-13T15:16:53.012+01:00</updated>
+  <content>NEIS</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FE595C9D-C64A-4910-BD5F-019ACC9F6802</id>
+  <title>HRV2 old</title>
+  <title xmlns="urn:iweb:">HRV2 old</title>
+  <in-navbar xmlns="urn:iweb:">FE595C9D-C64A-4910-BD5F-019ACC9F6802</in-navbar>
+  <link rel="alternate" href="HRV2_old.html"/>
+  <updated>2018-12-13T15:16:53.013+01:00</updated>
+  <content>HRV2 old</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4CAB2F50-303A-4A2B-B65C-292A2860ECAF</id>
+  <title>HRV2: state and action definition</title>
+  <title xmlns="urn:iweb:">HRV2: state and action definition</title>
+  <in-navbar xmlns="urn:iweb:">4CAB2F50-303A-4A2B-B65C-292A2860ECAF</in-navbar>
+  <link rel="alternate" href="HRV2__state_and_action_definition.html"/>
+  <updated>2018-12-13T15:16:53.014+01:00</updated>
+  <content>HRV2: state and action definition</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B3748F4A-74CF-41EA-B48C-B252F5F906C9</id>
+  <title>HRV2: create new patient</title>
+  <title xmlns="urn:iweb:">HRV2: create new patient</title>
+  <in-navbar xmlns="urn:iweb:">B3748F4A-74CF-41EA-B48C-B252F5F906C9</in-navbar>
+  <link rel="alternate" href="HRV2__create_new_patient.html"/>
+  <updated>2018-12-13T15:16:53.015+01:00</updated>
+  <content>HRV2: create new patient</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:017C8139-A95F-4ADB-A152-6619C46BEF66</id>
+  <title>Doctor-HRV2 Interface old</title>
+  <title xmlns="urn:iweb:">Doctor-HRV2 Interface old</title>
+  <in-navbar xmlns="urn:iweb:">017C8139-A95F-4ADB-A152-6619C46BEF66</in-navbar>
+  <link rel="alternate" href="Doctor-HRV2_Interface_old.html"/>
+  <updated>2018-12-13T15:16:53.016+01:00</updated>
+  <content>Doctor-HRV2 Interface old</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:2964D66A-555C-4390-8B1A-2B9D69224916</id>
+  <title>Patient-HRV2 Interface old</title>
+  <title xmlns="urn:iweb:">Patient-HRV2 Interface old</title>
+  <in-navbar xmlns="urn:iweb:">2964D66A-555C-4390-8B1A-2B9D69224916</in-navbar>
+  <link rel="alternate" href="Patient-HRV2_Interface_old.html"/>
+  <updated>2018-12-13T15:16:53.017+01:00</updated>
+  <content>Patient-HRV2 Interface old</content>
+ </entry>
+</feed>
